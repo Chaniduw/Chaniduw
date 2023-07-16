@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaniduw
 - 👀 I’m interested in Data Science and embedded software engineering
-- 🌱 I’m currently learning object-oriented programming
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate that is made for fun
 - 📫 How to reach me - chanidunuwanajith@gmail.com
 
