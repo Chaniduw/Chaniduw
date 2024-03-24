@@ -31,10 +31,6 @@
 <a href="https://codesandbox.com/https://codesandbox.io/u/chaniduw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/chaniduw" height="30" width="40" /></a>
 </p>
 
- <br>
- <br>
- <br>
- <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chaniduw&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
