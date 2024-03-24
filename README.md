@@ -35,10 +35,8 @@
  <br>
  <br>
  <br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chaniduw&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chaniduw&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaniduw&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaniduw&show_icons=true&locale=en&layout=compact" alt="chaniduw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaniduw&show_icons=true&locale=en" alt="chaniduw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaniduw&" alt="chaniduw" /></p>
