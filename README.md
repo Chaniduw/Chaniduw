@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/chanidu_" target="blank"><img src="https://img.shields.io/twitter/follow/chanidu_?logo=twitter&style=for-the-badge" alt="chanidu_" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **chanidunuwanajith@gmail.com**
 
